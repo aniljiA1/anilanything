@@ -15,7 +15,7 @@ import cors from "cors";
 const allowedOrigins = [
   "http://localhost:5173",        // Vite dev
         
-  "https://anilanything.vercel.app" // 👈 replace with your real Vercel URL
+  "https://anilanything.vercel.app" 
 ];
 
 app.use(
